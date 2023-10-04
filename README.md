@@ -2,6 +2,6 @@
 # WebApps-F23-Assignment-6
 Introduction to Java Script and DOM
 Hosted at- [author link](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment6-satwik1618/author.html)
-(https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment6-satwik1618/tips.html)
-(https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment6-satwik1618/cruise.html)
+[tips link](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment6-satwik1618/tips.html)
+[cruise link](https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment6-satwik1618/cruise.html)
 
